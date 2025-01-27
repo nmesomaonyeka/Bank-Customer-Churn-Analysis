@@ -21,6 +21,10 @@ This project analyzes the churn rate among a bank's customers to provide actiona
    - Evaluated the financial and operational implications of customer churn.
    - Identified target segments for churn reduction strategies.
 
+## Dashboard
+![Bank Customer Chrun Analysis](https://github.com/user-attachments/assets/a5583211-d9ee-4d9e-b3b8-095a6f7a3575)
+
+
 ## Key Metrics
 - **Total Customers Analyzed**: 10,000
 - **Overall Churn Rate**: 20.4%
